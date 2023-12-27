@@ -20,3 +20,8 @@
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wak1marcelo&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wak1marcelo&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+
+<a href="https://www.instagram.com/USERNAME" alt="Instagram" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/USERNAME">
+</a>
