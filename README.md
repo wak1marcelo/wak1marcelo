@@ -6,7 +6,7 @@
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mwnunes/)
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://twitter.com/WakiMarcelo)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:wakimarcelo@outloo.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:wakimarcelo@outlook.com)
 
 
 ## Habilidades
