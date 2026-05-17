@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - name: Generate Metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: SEU_USUARIO
